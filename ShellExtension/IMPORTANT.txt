@@ -1,0 +1,4 @@
+DON'T DELETE ContextMenu.dll !!!!!!!!1
+
+ContextMenu.dll is kept as a binary compatibility source.
+(to maintain the same CLSID)
