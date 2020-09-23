@@ -1,0 +1,5 @@
+when this component is added to a project as an internal control it's ok.
+
+BUT, when made into a project (and compiled into an OCX file) don't forget to set Version Compatibility in project properties to the first compiled .OCX
+
+This will ensure that every time you compile, the active-x control will have the same CLSID.

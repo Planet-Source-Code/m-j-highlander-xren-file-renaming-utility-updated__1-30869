@@ -1,0 +1,315 @@
+[Root]
+Most Recent Package=xr32
+
+
+[Package|XRen 3.1 installation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\3\XRen 3.1\XRen\Package
+
+[Package|XRen 3.1 installation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|XRen 3.1 installation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|XRen 3.1 installation|Files Found]
+
+[Package|XRen 3.1 installation|Files Released]
+
+[Package|XRen 3.1 installation|Missing Dependency Information]
+
+[Package|XRen 3.1 installation|Out-of-Date Dependency Information]
+
+[Package|XRen 3.1 installation|Files Added]
+
+[Package|XRen 3.1 installation|Files Removed]
+
+[Package|XRen 3.1 installation|Files In Project]
+G:\3\XRen 3.1\XRen\XRen.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|XRen 3.1 installation|Configure Registry Files]
+Applicable=No
+
+[Package|XRen 3.1 installation|Configure Remote Servers]
+Applicable=No
+
+[Package|XRen 3.1 installation|Install Locations]
+G:\3\XRen 3.1\XRen\XRen.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|XRen 3.1 installation|Configure Shared Files]
+Applicable=Yes
+G:\3\XRen 3.1\XRen\XRen.exe=No
+
+[Package|XRen 3.1 installation|Distribution]
+Type=single
+Size=
+Title=XRen 3.1
+
+[Package|XRen 3.1 installation|IconGroups]
+Group0=XRen 3.1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|XRen 3.1 installation|XRen 3.1]
+Icon1=XRen.exe
+Title1=XRen 3.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|XRen 3.1 installation|Package]
+PackageFolder=G:\3\XRen 3.1\XRen\Package
+ProjectFolder=G:\3\XRen 3.1\XRen
+ServerSideCab=
+File1=G:\3\XRen 3.1\XRen\Package\setup.exe
+File2=G:\3\XRen 3.1\XRen\Package\Setup.Lst
+File3=G:\3\XRen 3.1\XRen\Package\XRen.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|xr31|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\misc\XRen 3.1\XRen\Package
+
+[Package|xr31|Configure DAO ISAMs]
+Applicable=No
+
+[Package|xr31|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|xr31|Files Found]
+
+[Package|xr31|Files Released]
+
+[Package|xr31|Missing Dependency Information]
+
+[Package|xr31|Out-of-Date Dependency Information]
+
+[Package|xr31|Files Added]
+D:\misc\XRen 3.1\TAHOMA.TTF=
+D:\misc\XRen 3.1\TAHOMABD.TTF=
+D:\misc\XRen 3.1\vbs.reg=
+
+[Package|xr31|Files Removed]
+
+[Package|xr31|Files In Project]
+D:\misc\XRen 3.1\XRen\XRen.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\misc\XRen 3.1\TAHOMA.TTF=Yes
+D:\misc\XRen 3.1\TAHOMABD.TTF=Yes
+D:\misc\XRen 3.1\vbs.reg=Yes
+
+[Package|xr31|Configure Registry Files]
+Applicable=Yes
+D:\misc\XRen 3.1\vbs.reg=Both
+
+[Package|xr31|Configure Remote Servers]
+Applicable=No
+
+[Package|xr31|Install Locations]
+D:\misc\XRen 3.1\XRen\XRen.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\misc\XRen 3.1\TAHOMA.TTF=$(Font)
+D:\misc\XRen 3.1\TAHOMABD.TTF=$(Font)
+D:\misc\XRen 3.1\vbs.reg=$(AppPath)
+
+[Package|xr31|Configure Shared Files]
+Applicable=Yes
+D:\misc\XRen 3.1\XRen\XRen.exe=No
+D:\misc\XRen 3.1\vbs.reg=No
+
+[Package|xr31|Distribution]
+Type=single
+Size=
+Title=XRen 3.1
+
+[Package|xr31|IconGroups]
+Group0=XRen 3.1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|xr31|XRen 3.1]
+Icon1=XRen.exe
+Title1=XRen 3.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|xr31|Package]
+PackageFolder=D:\misc\XRen 3.1\XRen\Package
+ProjectFolder=D:\misc\XRen 3.1\XRen
+ServerSideCab=
+File1=D:\misc\XRen 3.1\XRen\Package\setup.exe
+File2=D:\misc\XRen 3.1\XRen\Package\Setup.Lst
+File3=D:\misc\XRen 3.1\XRen\Package\XRen.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|xr32|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\3\[ vb ]\[ new ]\XRen 3.3\Install
+
+[Package|xr32|Configure DAO ISAMs]
+Applicable=No
+
+[Package|xr32|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|xr32|Files Found]
+fix_vbs.reg=D:\3\[ vb ]\[ new ]\XRen 3.3\fix_vbs.reg
+
+[Package|xr32|Files Released]
+
+[Package|xr32|Missing Dependency Information]
+D:\3\XRen 3.2\REGSVR32.EXE=
+D:\3\[ vb ]\[ new ]\XRen 3.3\REGSVR32.EXE=
+
+[Package|xr32|Out-of-Date Dependency Information]
+
+[Package|xr32|Files Added]
+regsvr32.exe=
+fix_vbs.reg=
+tahoma.ttf=
+tahomabd.ttf=
+
+[Package|xr32|Files Removed]
+
+[Package|xr32|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\3\[ vb ]\[ new ]\XRen 3.3\XRen\XRen.exe=Yes
+D:\3\[ vb ]\[ new ]\XRen 3.3\REGSVR32.EXE=Yes
+D:\3\[ vb ]\[ new ]\XRen 3.3\fix_vbs.reg=Yes
+D:\3\[ vb ]\[ new ]\XRen 3.3\TAHOMA.TTF=Yes
+D:\3\[ vb ]\[ new ]\XRen 3.3\TAHOMABD.TTF=Yes
+
+[Package|xr32|Configure Registry Files]
+Applicable=Yes
+D:\3\XRen 3.2\fix_vbs.reg=Install
+D:\3\[ vb ]\[ new ]\XRen 3.3\fix_vbs.reg=Install
+
+[Package|xr32|Configure Remote Servers]
+Applicable=No
+
+[Package|xr32|Install Locations]
+D:\3\XRen 3.2\XRen\XRen.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\3\XRen 3.2\REGSVR32.EXE=$(WinPath)
+D:\3\XRen 3.2\fix_vbs.reg=$(AppPath)
+D:\3\XRen 3.2\TAHOMA.TTF=$(Font)
+D:\3\XRen 3.2\TAHOMABD.TTF=$(Font)
+D:\3\[ vb ]\[ new ]\XRen 3.3\XRen\XRen.exe=$(AppPath)
+D:\3\[ vb ]\[ new ]\XRen 3.3\REGSVR32.EXE=$(AppPath)
+D:\3\[ vb ]\[ new ]\XRen 3.3\fix_vbs.reg=$(AppPath)
+D:\3\[ vb ]\[ new ]\XRen 3.3\TAHOMA.TTF=$(Font)
+D:\3\[ vb ]\[ new ]\XRen 3.3\TAHOMABD.TTF=$(Font)
+
+[Package|xr32|Configure Shared Files]
+Applicable=Yes
+D:\3\XRen 3.2\XRen\XRen.exe=No
+D:\3\XRen 3.2\fix_vbs.reg=No
+D:\3\[ vb ]\[ new ]\XRen 3.3\XRen\XRen.exe=No
+D:\3\[ vb ]\[ new ]\XRen 3.3\REGSVR32.EXE=No
+D:\3\[ vb ]\[ new ]\XRen 3.3\fix_vbs.reg=No
+
+[Package|xr32|Distribution]
+Type=single
+Size=
+Title=XRen 3.2
+
+[Package|xr32|IconGroups]
+Group0=XRen 3.2
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|xr32|XRen 3.2]
+Icon1=XRen.exe
+Title1=XRen
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|xr32|Package]
+PackageFolder=D:\3\[ vb ]\[ new ]\XRen 3.3\Install
+ProjectFolder=D:\3\[ vb ]\[ new ]\XRen 3.3\XRen
+ServerSideCab=
+File1=D:\3\[ vb ]\[ new ]\XRen 3.3\Install\setup.exe
+File2=D:\3\[ vb ]\[ new ]\XRen 3.3\Install\Setup.Lst
+File3=D:\3\[ vb ]\[ new ]\XRen 3.3\Install\XRen.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
